@@ -8,7 +8,7 @@
 
 ## 📚 About Me
 
-- 💻 **Current Research**: Exploring protein-protein and protein-ligand interactions using large language models (LLMs) like ProtBERT, ESM 2, and Llama 3.
+- 💻 **Current Research**: Exploring protein-protein and protein-ligand interactions using large language models (LLMs) like BERT, ProtBERT, ESM 2, and Llama 3.
 - 🎓 **Education**:  
   - PhD in Computer Science (2023 – 2026)  
   - B.Sc. in Computer Science (2018 – 2022)  
