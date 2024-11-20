@@ -1,8 +1,8 @@
 
 # Hi there! 👋 I'm Kattayun Ensafi
 
-🔬 **PhD Candidate in Computer Science** at the University of Massachusetts, Boston  
-🔭 Passionate about solving biological challenges using Artificial Intelligence and Machine Learning
+🔬 **PhD Student in Computer Science** at the University of Massachusetts, Boston  
+🔭 Passionate about solving biological and everyday challenges using Artificial Intelligence and Machine Learning
 
 ---
 
@@ -43,8 +43,9 @@
 ---
 
 ## 🌱 I’m Currently Learning
-- Advanced protein-ligand interaction modeling with AI.
-- Enhancing proficiency in Transformers and computational biology tools.
+- Advanced protein-ligand interaction modeling with AI.  
+- Enhancing proficiency in Transformers and computational biology tools.  
+- Learning more about biology-related databases and enhancing the data usage streamline from websites such as BioPDB, ChemBL, RCSB, etc.  
 
 ---
 
@@ -56,4 +57,4 @@
 
 ---
 
-⚡ **Fun Fact**: I enjoy combining my love for coding with my curiosity about biological systems to push the boundaries of scientific discovery.
+⚡ **Fun Fact**: Alongside my love for coding and curiosity about biological systems, I also have a creative side! I used to do editing and even worked with a Persian YouTuber for a while!
