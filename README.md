@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Kattayun Ensafitakaldani
+# Hi there! 👋 I'm Kattayun Ensafi
 
 🔬 **PhD Candidate in Computer Science** at the University of Massachusetts, Boston  
 🔭 Passionate about solving biological challenges using Artificial Intelligence and Machine Learning
